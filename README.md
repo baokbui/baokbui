@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 2025 CS graduate at the University of Houston who is still passionate about building robust apps, machine learning, data analysis, and ai.<br>I am currently looking at full-time positions for data scientist, data analyst, business analyst, and machine learning.
+I am a 2025 CS graduate at the University of Houston who is passionate about building robust apps, machine learning, data analysis, and ai.<br>I am currently looking at full-time positions for data scientist, data analyst, business analyst, and machine learning.
 
 
 ## 🌐 Socials:
