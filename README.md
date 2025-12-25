@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CS graduate at the University of Houston who is passionate about building robust apps, machine learning, data analysis, and ai.
+I am a CS graduate at the University of Houston who is passionate about building robust apps, exploring the world of machine learning and AI, and telling stories through data analysis.
 
 
 ## 🌐 Socials:
