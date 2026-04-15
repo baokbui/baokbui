@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a CS graduate at the University of Houston who is passionate about building robust games and apps, while exploring the world of Machine Learning and AI.
+I am a CS graduate at the University of Houston who is passionate about building robust software, games, and apps.
 
 
 ## 🌐 Socials:
